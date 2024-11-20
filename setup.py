@@ -6,7 +6,7 @@ DESCRIPTION = "A simple python app to monitor your system/server. Outputs snapsh
 LONG_DESCRIPTION = open("README.md").read()
 AUTHOR = "Matias Ferreyra"
 EMAIL = "mferreyra82@gmail.com"
-GITLAB_URL = "https://gitlab.com/mferreyra/epm-practice-lab-python-tasks/-/tree/snapshot-util"
+GITHUB_URL = "https://github.com/mferreyra/snapshot-util"
 
 setup(
         name=PACKAGE_NAME, 
